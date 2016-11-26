@@ -1,0 +1,14 @@
+*.aux
+*.py~
+*.tex~
+*.el
+*.synctex.gz
+*.log
+*.dvi
+*.blg
+*.dvi
+*.blg
+*.bbl
+_region_.tex
+.project
+.pydevproject
