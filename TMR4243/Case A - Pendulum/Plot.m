@@ -1,0 +1,6 @@
+load('0pådrag.mat')
+figure(1)
+plot(ans(1,:),ans(2,:))
+xlabel('Time [s]')
+ylabel('Angle [radians]')
+title('Simulation with F_{fan} = 0 N')
